@@ -1,0 +1,337 @@
+{
+  "botafogo": {
+    "jogadores": [
+      {
+        "nome": "Apusenta",
+        "posicao": "Atacante",
+        "overall": 80,
+        "preco": 30
+      },
+      {
+        "nome": "AstroJ",
+        "posicao": "Meio Campista",
+        "overall": 79,
+        "preco": 30
+      },
+      {
+        "nome": "Reiz",
+        "posicao": "Zagueiro",
+        "overall": 83,
+        "preco": 30,
+        "gols": 1
+      },
+      {
+        "nome": "Isqueyro",
+        "posicao": "Goleiro",
+        "overall": 73,
+        "preco": 20
+      },
+      {
+        "nome": "Zen",
+        "posicao": "Goleiro",
+        "overall": 72,
+        "preco": 20
+      }
+    ],
+    "overall": 77
+  },
+  "corinthians": {
+    "jogadores": [
+      {
+        "nome": "RB",
+        "posicao": "Atacante",
+        "overall": 79,
+        "preco": 30,
+        "gols": 2
+      },
+      {
+        "nome": "Wills",
+        "posicao": "Meio Campista",
+        "overall": 88,
+        "preco": 50,
+        "gols": 4,
+        "mvps": 1
+      },
+      {
+        "nome": "jotamartins",
+        "posicao": "Meio Campista",
+        "overall": 68,
+        "preco": 15
+      },
+      {
+        "nome": "Igorz",
+        "posicao": "Zagueiro",
+        "overall": 85,
+        "preco": 45,
+        "gols": 2
+      },
+      {
+        "nome": "PicaPau",
+        "posicao": "Zagueiro",
+        "overall": 66,
+        "preco": 10
+      },
+      {
+        "nome": "Menofelpy",
+        "posicao": "Goleiro",
+        "overall": 80,
+        "preco": 30
+      }
+    ],
+    "overall": 77
+  },
+  "barcelona": {
+    "jogadores": [
+      {
+        "nome": "Biggie",
+        "posicao": "Atacante",
+        "overall": 87,
+        "preco": 50
+      },
+      {
+        "nome": "Zeck",
+        "posicao": "Atacante",
+        "overall": 71,
+        "preco": 20
+      },
+      {
+        "nome": "Kahn",
+        "posicao": "Meio Campista",
+        "overall": 78,
+        "preco": 30,
+        "gols": 1
+      },
+      {
+        "nome": "Kaká",
+        "posicao": "Zagueiro",
+        "overall": 75,
+        "preco": 25,
+        "gols": 1
+      },
+      {
+        "nome": "sett",
+        "posicao": "Goleiro",
+        "overall": 79,
+        "preco": 30
+      },
+      {
+        "nome": "Roleta",
+        "posicao": "Goleiro",
+        "overall": 71,
+        "preco": 20
+      }
+    ],
+    "overall": 77
+  },
+  "real madrid": {
+    "jogadores": [
+      {
+        "nome": "gamma",
+        "posicao": "Atacante",
+        "overall": 83,
+        "preco": 30
+      },
+      {
+        "nome": "Sativa",
+        "posicao": "Meio Campista",
+        "overall": 85,
+        "preco": 40,
+        "mvps": 0,
+        "gols": 0
+      },
+      {
+        "nome": "Cínico",
+        "posicao": "Meio Campista",
+        "overall": 75,
+        "preco": 25
+      },
+      {
+        "nome": "Ban",
+        "posicao": "Meio Campista",
+        "overall": 66,
+        "preco": 15
+      },
+      {
+        "nome": "Pkzn",
+        "posicao": "Goleiro",
+        "overall": 76,
+        "preco": 25
+      },
+      {
+        "nome": "Okami",
+        "posicao": "Zagueiro",
+        "overall": 70,
+        "preco": 20
+      }
+    ],
+    "overall": 76
+  },
+  "flamengo": {
+    "jogadores": [
+      {
+        "nome": "Galark",
+        "posicao": "Atacante",
+        "overall": 82,
+        "preco": 30
+      },
+      {
+        "nome": "João",
+        "posicao": "Meio Campista",
+        "overall": 81,
+        "preco": 40,
+        "mvps": 1,
+        "gols": 3
+      },
+      {
+        "nome": "Augusto",
+        "posicao": "Zagueiro",
+        "overall": 80,
+        "preco": 30,
+        "gols": 1
+      },
+      {
+        "nome": "JotaA",
+        "posicao": "Goleiro",
+        "overall": 77,
+        "preco": 25,
+        "gols": 2
+      },
+      {
+        "nome": "Atzin",
+        "posicao": "Goleiro",
+        "overall": 72,
+        "preco": 20
+      },
+      {
+        "nome": "Theo",
+        "posicao": "Goleiro",
+        "overall": 70,
+        "preco": 20
+      }
+    ],
+    "overall": 77
+  },
+  "liverpool": {
+    "jogadores": [
+      {
+        "nome": "Menorzin",
+        "posicao": "Atacante",
+        "overall": 80,
+        "preco": 35
+      },
+      {
+        "nome": "Phosovaldo",
+        "posicao": "Atacante",
+        "overall": 77,
+        "preco": 25
+      },
+      {
+        "nome": "Brabodacena",
+        "posicao": "Meio Campista",
+        "overall": 83,
+        "preco": 30
+      },
+      {
+        "nome": "Perreis",
+        "posicao": "Meio Campista",
+        "overall": 82,
+        "preco": 30
+      },
+      {
+        "nome": "hakzin",
+        "posicao": "Zagueiro",
+        "overall": 70,
+        "preco": 20
+      },
+      {
+        "nome": "LN",
+        "posicao": "Goleiro",
+        "overall": 79,
+        "preco": 30
+      }
+    ],
+    "overall": 78
+  },
+  "brighton": {
+    "jogadores": [
+      {
+        "nome": "Lynx",
+        "posicao": "Atacante",
+        "overall": 75,
+        "preco": 25
+      },
+      {
+        "nome": "Soldier",
+        "posicao": "Atacante",
+        "overall": 78,
+        "preco": 30
+      },
+      {
+        "nome": "Anbu",
+        "posicao": "Meio Campista",
+        "overall": 82,
+        "preco": 35
+      },
+      {
+        "nome": "Mercury",
+        "posicao": "Meio Campista",
+        "overall": 67,
+        "preco": 10
+      },
+      {
+        "nome": "Kenny",
+        "posicao": "Zagueiro",
+        "overall": 87,
+        "preco": 50
+      },
+      {
+        "nome": "Near",
+        "posicao": "Goleiro",
+        "overall": 82,
+        "preco": 30
+      }
+    ],
+    "overall": 78
+  },
+  "leicester": {
+    "jogadores": [
+      {
+        "nome": "Jovemtino",
+        "posicao": "Atacante",
+        "overall": 73,
+        "preco": 25
+      },
+      {
+        "nome": "MZ",
+        "posicao": "Meio Campista",
+        "overall": 78,
+        "preco": 30
+      },
+      {
+        "nome": "NT",
+        "posicao": "Meio Campista",
+        "overall": 67,
+        "preco": 10
+      },
+      {
+        "nome": "Russo",
+        "posicao": "Zagueiro",
+        "overall": 70,
+        "preco": 20
+      },
+      {
+        "nome": "Midoz",
+        "posicao": "Zagueiro",
+        "overall": 73,
+        "preco": 20
+      },
+      {
+        "nome": "Kobezin",
+        "posicao": "Goleiro",
+        "overall": 84,
+        "preco": 45
+      }
+    ],
+    "overall": 74
+  }
+}

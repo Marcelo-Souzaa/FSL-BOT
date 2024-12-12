@@ -1,0 +1,118 @@
+[
+  {
+    "nome": "Art",
+    "posicao": "Atacante",
+    "overall": 68,
+    "preco": 15
+  },
+  {
+    "nome": "Arcano",
+    "posicao": "Goleiro",
+    "overall": 67,
+    "preco": 15
+  },
+  {
+    "nome": "Tapoka",
+    "posicao": "Goleiro",
+    "overall": 72,
+    "preco": 20
+  },
+  {
+    "nome": "Lobisomem",
+    "posicao": "Zagueiro",
+    "overall": 68,
+    "preco": 15
+  },
+  {
+    "nome": "Midra",
+    "posicao": "Zagueiro",
+    "overall": 69,
+    "preco": 20
+  },
+  {
+    "nome": "Pizzo",
+    "posicao": "Atacante",
+    "overall": 77,
+    "preco": 25
+  },
+  {
+    "nome": "MC Comando",
+    "posicao": "Zagueiro",
+    "overall": 65,
+    "preco": 10
+  },
+  {
+    "nome": "Rodrigues",
+    "posicao": "Zagueiro",
+    "overall": 70,
+    "preco": 20
+  },
+  {
+    "nome": "Chucro",
+    "posicao": "Atacante",
+    "overall": 67,
+    "preco": 15
+  },
+  {
+    "nome": "Lacraia",
+    "posicao": "Zagueiro",
+    "overall": 65,
+    "preco": 10
+  },
+  {
+    "nome": "Phz",
+    "posicao": "Goleiro",
+    "overall": 65,
+    "preco": 10
+  },
+  {
+    "nome": "Killmoon",
+    "posicao": "Zagueiro",
+    "overall": 65,
+    "preco": 10
+  },
+  {
+    "nome": "Kz",
+    "posicao": "Zagueiro",
+    "overall": 65,
+    "preco": 10
+  },
+  {
+    "nome": "Salazar",
+    "posicao": "Goleiro",
+    "overall": 77,
+    "preco": 25
+  },
+  {
+    "nome": "Sativa Prime 2008",
+    "posicao": "Atacante",
+    "overall": 999,
+    "preco": 1000,
+    "mvps": 27,
+    "gols": 34298
+  },
+  {
+    "nome": "pinda",
+    "posicao": "Atacante",
+    "overall": 0,
+    "preco": -100
+  },
+  {
+    "nome": "Dark MC",
+    "posicao": "De 4",
+    "overall": 10,
+    "preco": 1
+  },
+  {
+    "nome": "pelé",
+    "posicao": "Atacante",
+    "overall": 99,
+    "preco": 10000
+  },
+  {
+    "nome": "Astro J",
+    "posicao": "Meio Campista",
+    "overall": 79,
+    "preco": 30
+  }
+]
